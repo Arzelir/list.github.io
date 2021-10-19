@@ -6,17 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Friends</title>
-    <link rel="stylesheet" href="arzelir.css">
   </head>  
   <body>
     <h1>
-    Friends List
+      Friends
     </h1>
 
-    <p>John: 8/10
-    Really cool guy, funny, don't know him enough to make him a 9
-    </p>
-    
+    <p>John: 8/10. Really cool guy, just don't know him enough to make him a 9/10.</p>
 
   </body>
 </html>
